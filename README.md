@@ -1,2 +1,2 @@
 # PriceBoard_practice
-![priceBoard](images/priceboard.jpg)
+![priceBoard](images/priceboard.png)
