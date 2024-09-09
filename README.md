@@ -1,2 +1,6 @@
-# PriceBoard_practice
+# PriceBoard (학습용 프로젝트)
 ![priceBoard](images/priceboard.png)
+
+### 배운점
+- CSS를 활용한 웹 퍼블리싱 능력을 향상시키기 위해 해당 프로젝트를 진행했다.
+- 반응형 웹 디자인을 구현하며, 미디어 화면 크기 별로 화면을 다르게 설계하는 능력을 키울 수 있었다.
